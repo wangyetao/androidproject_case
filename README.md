@@ -1,16 +1,38 @@
-03707 毛泽东思想、邓小平理论和"三个代表"重要思想概论 \n
-12656 毛泽东思想和中国特色社会主义理论体系概论 \n
-00040 法学概论 \n
-00012 英语(一) \n
-00022 高等数学(二) \n
-02198 线性代数 \n
-04730 电子技术基础(三) \n
-02316 计算机应用技术 \n
-00342 高级语言程序设计(一) \n
-02318 计算机组成原理 \n
-02323 操作系统概论 \n
-02142 数据结构导论 \n
-02120 数据库及应用 \n
-04732 微型计算机及接口技术 \n
-02141 计算机网络技术 \n
-11325 计算机及应用课程实验(一) \n
+Welcome to GitHub Pages
+
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the 
+
+content in your Markdown files.
+
+Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+For more details see GitHub Flavored Markdown.
+
+Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository 
+
+settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
+
+Support or Contact
+
+Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
