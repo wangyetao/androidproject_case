@@ -12,27 +12,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-For more details see GitHub Flavored Markdown.
-
-Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository 
-
-settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
-
-Support or Contact
-
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
+# A080701-计算机及应用[专科段]
+03707 毛泽东思想、邓小平理论和"三个代表"重要思想概论
+12656 毛泽东思想和中国特色社会主义理论体系概论
+00040 法学概论
+00012 英语(一)
+00022 高等数学(二)
+02198 线性代数
+04730 电子技术基础(三)
+02316 计算机应用技术
+00342 高级语言程序设计(一)
+02318 计算机组成原理
+02323 操作系统概论
+02142 数据结构导论
+02120 数据库及应用
+04732 微型计算机及接口技术
+02141 计算机网络技术
+11325 计算机及应用课程实验(一)
